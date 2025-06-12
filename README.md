@@ -43,7 +43,7 @@ External games are embedded using an `<iframe>` in a modal popup to maintain UI 
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-org/english-learning-games.git
+   git clone https://github.com/glinteco-com/Sample-game.git
    ```
 2. Install dependencies:
 
